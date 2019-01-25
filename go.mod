@@ -2,6 +2,7 @@ module github.com/apex/apex
 
 require (
 	github.com/Unknwon/goconfig v0.0.0-20161121224340-87a46d97951e
+	github.com/a-urth/go-bindata v0.0.0-20180209162145-df38da164efc // indirect
 	github.com/apex/log v1.0.0
 	github.com/aws/aws-sdk-go v1.13.52
 	github.com/aybabtme/rgbterm v0.0.0-20170906152045-cc83f3b3ce59
@@ -12,7 +13,7 @@ require (
 	github.com/dustin/go-humanize v0.0.0-20171012181109-77ed807830b4
 	github.com/go-ini/ini v1.28.2
 	github.com/golang-commonmark/markdown v0.0.0-20170722161535-11a7a839e723
-	github.com/golang/mock v1.0.0
+	github.com/golang/mock v1.2.0
 	github.com/google/go-github v0.0.0-20171013030541-0f6d3ce15ec2
 	github.com/google/go-querystring v0.0.0-20170111101155-53e6ce116135
 	github.com/howeyc/gopass v0.0.0-20170109162249-bf9dde6d0d2c
